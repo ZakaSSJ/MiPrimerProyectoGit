@@ -1,3 +1,5 @@
 Nombre: Zakare Karapetyan Abrahamyan
 Ciclo: Desarrollo de Aplicaciones WEB
 Tecnologia que quiero aprender: Java
+Por que he elegido DAM O DAW:
+Quiero aprender a desarrollar aplicaciones.
